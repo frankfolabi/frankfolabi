@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frankfolabi
 - 👀 I’m interested in web programming and software development
 - 🌱 I’m currently learning on edX
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me on frankfolabi@gmail.com
 
 <!---
