@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankfolabi
-- 👀 I’m interested in cloud computing and web programming
-- 🌱 I’m currently learning on AWS and edX
+- 👀 I’m interested in cloud computing and DevOps
+- 🌱 I’m currently learning DevOps tools
 - 💞️ I’m looking to collaborate on any project
 - 📫 You can reach me on frankfolabi@gmail.com
 
