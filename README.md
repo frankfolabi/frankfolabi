@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud computing and DevOps
 - 🌱 I’m currently learning DevOps tools
 - 💞️ I’m looking to collaborate on any project
-- 📫 You can reach me on frankfolabi@gmail.com
+- 📫 You can reach me on [LinkedIn](https://linkedin.com/in/frankfolabi)
 
 <!---
 frankfolabi/frankfolabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
