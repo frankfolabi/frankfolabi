@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frankfolabi
 - 👀 I’m interested in cloud computing and DevOps
-- 🌱 I’m currently learning DevOps tools
-- 💞️ I’m looking to collaborate on any project
+- 🌱 I’m currently learning the DevOps culture
+- 💞️ I’m looking to collaborate on any project especially open source
 - 📫 You can reach me on [LinkedIn](https://linkedin.com/in/frankfolabi)
 
 <!---
